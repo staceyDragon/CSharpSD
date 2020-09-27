@@ -10,11 +10,11 @@
         "projectUniqueName": "D:\\repo\\CSharpSD\\Lab1\\Task4\\Task4.csproj",
         "projectName": "Task4",
         "projectPath": "D:\\repo\\CSharpSD\\Lab1\\Task4\\Task4.csproj",
-        "packagesPath": "C:\\Users\\Alpha\\.nuget\\packages\\",
+        "packagesPath": "C:\\Users\\yourpainkill3r\\.nuget\\packages\\",
         "outputPath": "D:\\repo\\CSharpSD\\Lab1\\Task4\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Alpha\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\yourpainkill3r\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
