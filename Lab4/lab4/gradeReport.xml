@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gradeReport xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="gradeReport.xsd" id="120851">
+    <date>09.10.2020</date>
+    <subject>Computer Science Fundamentals</subject>
+    <examiner>prof.Kuznetsov</examiner>
+    <gradeList>
+        <gradeRecord id="1">
+            <student>Ivan Gurinovich</student>
+            <grade>4</grade>
+        </gradeRecord>
+        <gradeRecord id="2">
+            <student>Peter Churov</student>
+            <grade>3</grade>
+        </gradeRecord>
+        <gradeRecord id="3">
+            <student>Nickolay Sidorenko</student>
+            <grade>5</grade>
+        </gradeRecord>
+        <gradeRecord id="4">
+            <student>Eugene Lomov</student>
+            <grade>3</grade>
+        </gradeRecord>
+        <gradeRecord id="5">
+            <student>Volodymyr Krauze</student>
+            <grade>5</grade>
+        </gradeRecord>
+        <gradeRecord id="6">
+            <student>Roman Illyn</student>
+            <grade>4</grade>
+        </gradeRecord>
+    </gradeList>
+</gradeReport>
