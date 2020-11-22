@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+<gradeReport id="120851">
+  <date>22-11-2020</date>
+  <subject>Computer Science Fundamentals</subject>
+  <examiner>prof.Chervonenko</examiner>
+    <gradeList>
+      <gradeRecord id="1">
+        <student>Kuznetsov</student>
+        <grade>3</grade>
+      </gradeRecord>
+      <gradeRecord id="2">
+        <student>Lomonosov</student>
+        <grade>5</grade>
+      </gradeRecord>
+      <gradeRecord id="3">
+        <student>Grigorenko</student>
+        <grade>4</grade>
+      </gradeRecord>
+    </gradeList>
+</gradeReport>

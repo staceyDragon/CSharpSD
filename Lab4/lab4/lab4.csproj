@@ -59,10 +59,14 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
-    <Content Include="timetable.dtd" />
+    <Content Include="timetable.dtd">
+      <SubType>Designer</SubType>
+    </Content>
   </ItemGroup>
   <ItemGroup>
-    <Content Include="gradeReport.dtd" />
+    <Content Include="gradeReport.dtd">
+      <SubType>Designer</SubType>
+    </Content>
     <None Include="gradeReport.xsd">
       <SubType>Designer</SubType>
     </None>
